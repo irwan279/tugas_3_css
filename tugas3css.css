@@ -1,0 +1,14 @@
+.p_satu {
+  background-color: orange;
+}
+.p_dua {
+  background-color: blue;
+  color: white;
+}
+.p_tiga {
+  font-family: Courier;
+}
+.p_empat {
+  background-color: grey;
+  font-weight: bold;
+}
